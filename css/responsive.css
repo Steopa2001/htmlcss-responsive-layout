@@ -107,7 +107,11 @@
     margin-right: 10px;
   }
 
-  
-
+  /* .social-networks .btn {
+    padding: 10px 35px;
+  } */
+   .social-networks .btn {
+    width: calc(100% / 5);
+   }
 }
 
