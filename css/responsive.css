@@ -96,6 +96,18 @@
     text-align: left;
   }
 
+}
+
+
+/* LARGE MOBILE  */
+@media all and (min-width: 576px) {
+
+  .clearfix img {
+    float: left;
+    margin-right: 10px;
+  }
+
+  
 
 }
 
