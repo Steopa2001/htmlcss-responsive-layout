@@ -1,5 +1,6 @@
 /* Soluzione qui */
 
+/* TABLET   */
 @media all and (min-width: 768px) {
    #topbar {
     display: flex;
@@ -48,3 +49,15 @@
 
 
 }
+
+
+/* DESKTOP  */
+@media all and (min-width: 992px) {
+
+  
+  .recipe-title {
+    font-size: 2rem;
+  }
+
+}
+
