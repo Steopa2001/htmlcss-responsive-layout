@@ -29,11 +29,16 @@
   }
 
     .quick-notes ul li {
-      margin: 20px 25px;
-    }
+    width: calc(100%/3);
+  }
 
     .social-networks .btn {
       padding: 10px 50px;
-    }
+    } 
+
+    .ads {
+	    display: block;
+}
+
 
 }
