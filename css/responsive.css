@@ -10,4 +10,13 @@
     padding: 50px;
   }
 
+  .recipe-name {
+    display: flex;
+  }
+
+  .recipe-origin {
+	display: block;
+  margin-left: 10px;
+}
+
 }
