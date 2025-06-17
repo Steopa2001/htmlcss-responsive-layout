@@ -59,5 +59,9 @@
     font-size: 2rem;
   }
 
+  .quick-notes ul {
+    display: inline;
+  }
+
 }
 
