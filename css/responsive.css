@@ -75,6 +75,10 @@
     width: 30%;
   }
 
+  .quick-notes ul li {
+    width: 100%;
+  }
+
   .btn .label {
     display: initial;
   }
